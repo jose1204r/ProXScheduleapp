@@ -1,0 +1,15 @@
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\bin\Debug\net7.0\XproSchedule.exe
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\bin\Debug\net7.0\XproSchedule.deps.json
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\bin\Debug\net7.0\XproSchedule.runtimeconfig.json
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\bin\Debug\net7.0\XproSchedule.dll
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\bin\Debug\net7.0\XproSchedule.pdb
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\XproSchedule.csproj.AssemblyReference.cache
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\XproSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\XproSchedule.AssemblyInfoInputs.cache
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\XproSchedule.AssemblyInfo.cs
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\XproSchedule.csproj.CoreCompileInputs.cache
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\XproSchedule.dll
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\refint\XproSchedule.dll
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\XproSchedule.pdb
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\XproSchedule.genruntimeconfig.cache
+C:\Users\jrodr\OneDrive\Documents\Repo\XproSchedule\XproSchedule\obj\Debug\net7.0\ref\XproSchedule.dll
